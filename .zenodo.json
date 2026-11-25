@@ -1,0 +1,22 @@
+{
+  "title": "Word-Reversal Symmetry, Darboux Block Obstructions, and a General codim(Sing) + 2 Determinantal Complexity Bound for Degree-n >= 4 Hypersurfaces (with a Self-Contained Application to dc_C(perm_4) >= 10)",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "<p>We develop an algebraic symmetry and obstruction framework explaining how origin-isotropy traps matrix operator chains in higher-order singular strata. First, in the free associative algebra <em>A = C&lt;m_1,...,m_s&gt;</em> equipped with the word-reversal anti-involution <em>rho(m_{i_1}...m_{i_k}) = m_{i_k}...m_{i_1}</em>, we prove that any representation <em>Phi</em> satisfying the two initial skew-symmetry conditions <em>K^T = -K</em> and <em>(Phi(m_i)K)^T = -Phi(m_i)K</em> satisfies the universal identity <em>(Phi(P)K)^T = -Phi(rho(P))K</em> for all <em>P in A</em>. We establish necessary and sufficient conditions for quadratic annihilation (<em>y^T Phi(P)K y = 0 iff Phi(P^-)K = 0</em>), derive exact dimension formulas <em>dim A_k^+- = (s^k +- s^{ceil(k/2)})/2</em>, and characterize the admissible operator space <em>L_K</em> in a Darboux basis of <em>K</em> (<em>rank(K) = 2r &lt;= d_v</em>).</p><p>Second, we apply this characterization to Algebraic Branching Programs (ABPs) and linear time-invariant (LTI) control systems: we show that two vanishing initial Markov parameters force the entire infinite Hankel matrix <em>H_infinity</em> to collapse to zero, prove a width lower bound <em>w &gt;= codim Sing(V(F)) + 1</em> for time-homogeneous and palindromic ABPs, and prove that even for completely non-homogeneous ABPs with arbitrary distinct layer matrices, the Hessian rank on <em>W^perp</em> is bounded by <em>rank Hess(F)(xi) &lt;= 2r = rank(K) &lt;= w - d_z</em>.</p><p>Third, we prove a general unconditional determinantal complexity theorem extending the Alper-Bogart-Velasco (2017) bound (<em>dc_C(F) &gt;= codim Sing(V(F)) + 1</em>): for every homogeneous polynomial <em>F</em> of degree <em>n &gt;= 4</em> satisfying <em>codim Sing(V(F)) &gt;= 5</em> and <em>codim Sing_2(V(F)) &gt; codim Sing(V(F))</em>, one has unconditionally <em>dc_C(F) &gt;= codim Sing(V(F)) + 2</em>. As a self-contained concrete application, this yields <em>dc_C(perm_4) &gt;= 10</em>.</p>",
+  "creators": [
+    {
+      "name": "BrientH"
+    }
+  ],
+  "keywords": [
+    "algebraic complexity",
+    "determinantal complexity",
+    "permanent",
+    "free associative algebra",
+    "word-reversal involution",
+    "algebraic branching programs",
+    "singularity codimension"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open"
+}
